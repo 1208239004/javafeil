@@ -10,3 +10,4 @@ hello China!
 这是我们爱中国没有任何借;
 这是测试冲突的master添加:
 这是测试冲突的div分支添加；
+master
