@@ -12,3 +12,4 @@ hello China!
 这是测试冲突的div分支添加；
 master
 dcba
+abcde
